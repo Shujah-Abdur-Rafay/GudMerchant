@@ -46,6 +46,3 @@ GudMerchant is a feature-rich e-commerce mobile application built with Flutter a
 
 - Shujah Abdur Rafay
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
